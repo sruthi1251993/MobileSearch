@@ -3,7 +3,7 @@ Prerequisites
 Java 1.8 should be installed
 Maven should be insatlled
 
-How to run:
+How to run:<br>
 Run via IDE -> Run "MVN CLEAN INSTALL" 
 Go to Main Class - IphoneSearch and run
 or
