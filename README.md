@@ -14,3 +14,4 @@ CD target(navigate to target folder) run the jar with following commands and pas
 java -jar FlipkartMobileSearch-1.0-SNAPSHOT-jar-with-dependencies.jar {browserName} <br>
 Broswer name can be "CHROME"/"SAFARI"/"FIREFOX"<br>
 By default it took Chrome broswer<br>
+Results/Output CSV file will be generated at TMP Folder as Report.CSV
